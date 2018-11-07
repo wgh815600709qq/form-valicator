@@ -1,0 +1,17 @@
+{
+    "name": "wgh_valicator",
+    "version": "1.0.1",
+    "description": "form valicator",
+    "main": "index.js",
+    "scripts": {
+      "test": "node demo.js"
+    },
+    "keywords": [
+      "valicator"
+    ],
+    "author": "wgh815600709qq",
+    "license": "ISC",
+    "dependencies": {
+    }
+  }
+  
